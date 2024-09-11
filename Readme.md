@@ -46,7 +46,7 @@ Here's a basic example demonstrating how to set up a server and handle requests 
 
 ```cpp
     #include <stdio.h>
-    #include "Flasc.h"
+    #include "flasc.h"
 
     char* hello(Request *req, int new_socket)
     {
